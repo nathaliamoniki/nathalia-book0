@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Plataformas Educacionais
+GenericName=Plataformas Educacionais
+GenericName[pt]=Plataformas Educacionais
+GenericName[pt_BR]=Plataformas Educacionais
+Comment=Plataformas Educacionais
+Comment[pt_BR]=Plataformas Educacionais
+Exec=/usr/local/bin/abrirsiteplataformas.sh escola
+StartupNotify=true
+Terminal=false
+Icon=/usr/share/icons/iconeplataformas.jpeg
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/ftp;x-scheme-handler/http;x-scheme-handler/https;
+Actions=new-window;new-private-window;
